@@ -1,6 +1,6 @@
 {
     "name": "siarkowodor/sql-creator",
-    "description": "",
+    "description": "Sql creator library",
     "version": "0.1",
     "type": "library",
     "authors": [
