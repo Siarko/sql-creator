@@ -2,6 +2,7 @@
     "name": "siarkowodor/sql-creator",
     "description": "Sql creator library",
     "version": "0.1",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
@@ -9,7 +10,6 @@
             "email": "labroqu@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-0": {
